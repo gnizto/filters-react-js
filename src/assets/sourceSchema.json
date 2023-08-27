@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "id": "created_by",
+      "type": "string",
+      "label": "Creator"
+    },
+    {
+      "id": "title",
+      "type": "string",
+      "label": "Title"
+    },
+    {
+      "id": "age",
+      "type": "int",
+      "label": "Age"
+    }
+  ]
+}
